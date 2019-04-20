@@ -2,7 +2,7 @@ package homwork2;
 
 import java.io.*;
 
-public class SerializationDeserialized {
+public class SerializationDeserialized implements Serializable {
     private String StudentName;
     private int age ;
     private double salarywork;
